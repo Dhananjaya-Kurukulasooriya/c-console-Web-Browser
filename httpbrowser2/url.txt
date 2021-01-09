@@ -1,0 +1,228 @@
+HTTP/1.1 200 OK
+Server: openresty/1.15.8.2
+Date: Thu, 19 Nov 2020 12:01:59 GMT
+Content-Type: text/html
+Content-Length: 8328
+Connection: close
+Vary: Accept-Encoding
+X-Powered-By: ASP.NET
+X-Proxy-Cache: HIT
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta charset="utf-8" />
+		<title>epguides.com * Main Menu Page</title>
+		<meta name="keywords" content="episode guides, television, show, series, lists" />
+		<meta name="description" content="A vast archive of episode guides for television series past and present." />
+		<meta name="DC.Title" content="epguides.com" />
+		<meta name="DC.TitleAlternative" content="formerly the Episode Guides Page" />
+		<meta name="DC.Creator" content="George Fergus, Dennis Kytasaari" />
+		<meta name="DC.Creator.Address" content="fergus@epguides.com, djk@epguides.com" />
+		<meta name="DC.Subject" content="episode guides" />
+		<meta name="DC.Subject" content="television" />
+		<meta name="DC.Subject" content="show" />
+		<meta name="DC.Subject" content="series" />
+		<meta name="DC.Subject" content="lists" />
+		<meta name="DC.Subject" content="(SCHEME=LCSH) Television programs" />
+		<meta name="DC.Subject" content="(SCHEME=DDC) 791.4575" />
+		<meta name="DC.Subject" content="(SCHEME=DDC) 016.7914575" />
+		<meta name="DC.Description" content="A vast archive of episode guides for television series past and present." />
+		<meta name="DC.Contributor" content="John Lavalie" />
+		<meta name="DC.Type" content="Text.Homepage" />
+		<meta name="DC.Date" content="(SCHEME=ISO8601) 1995-11-22" />
+		<meta name="DC.Format" content="(SCHEME=IMT) text/html" />
+		<meta name="DC.Identifier" content="http://epguides.com/" />
+		<meta name="DC.Language" content="(SCHEME=ISO639-1) en" />
+		<meta name="DC.Date.X-MetadataLastModified" content="(SCHEME=ISO8601) 2000-05-03" />
+		<meta name="verify-v1" content="3Xvt1TU9fUXHwbhMX6R+/59jH8S2hC4n6qtGEaeUKdE=" />
+		<link rel="Shortcut Icon" href="/favicon.ico" />
+		<link href="common/epguides_style.css" rel="stylesheet" type="text/css" />
+
+		<script>
+			<!--
+			function popup(mylink, windowname, iWidth, iHeight) {
+				if (!window.focus) return true;
+				var href;
+				if (typeof (mylink) == 'string') {
+					href = mylink;
+				} else {
+					href = mylink.href;
+				}
+
+				window.open(href, windowname, 'left=' + (window.screen.availWidth - iWidth - 25) + ',top=25,width=' + iWidth + ',height=' + iHeight + ',scrollbars=yes,resizable=yes');
+				return false;
+			}
+
+			function targetopener(closeonly, href) {
+				if (href != null) {
+					window.opener.location = href;
+					closeonly = true;
+				}
+				if (!closeonly) {
+					window.opener.document.location.reload(true);
+				}
+				window.opener.focus();
+				window.close();
+				return false;
+			}
+
+			function cancel() {
+				window.close();
+			}
+
+			function fuddleFunc() {
+				if (window.screen.availWidth > 600) {
+					document.getElementById('google.search').focus();
+				}
+			}
+			//-->
+		</script>
+	</head>
+
+	<body class="center" onload="fuddleFunc();">
+		<div id="top">
+			<div id="mp-pref">
+				<a href="common/myShows.asp" onclick="return popup(this,'myepguides',400,400)">my shows</a>
+				| <a href="/common/preferences.asp">preferences</a>
+			</div>
+			<div id="mp-logo">
+				<img src="/images/epguides_logo.gif" alt="epguides.com logo" width="294" height="81" />
+			</div>
+		</div>
+		<div>
+			<p class="pads">Cataloging the opiate of the masses on the small screen since 1995.</p>
+			<p class="pads">This site contains episode lists for over
+				9300
+				TV shows.  Each list displays only titles and airdates, but in most cases the episode title is a link to the page
+				for that episode at <a href="http://www.tvmaze.com/">TVmaze.com</a> or <a href="http://www.tv.com/">TV.com</a>,
+				where there is more information such as guest stars and a plot summary. If lists are available from multiple sources,
+				you can switch between them.
+			</p>
+			<p class="pads">To view a simple guide with summaries grouped for all episodes of a show, click the &ldquo;Printable Guide&rdquo; box on the show&rsquo;s page.
+			</p>
+		</div>
+		<div class="pads">
+			<form action="http://www.google.com/cse" method="get">
+				Show search:
+				<input type="hidden" name="cx" value="006364566242780170875:hrcq-leun10" />
+				<input type="text" name="q" id='google.search' value="" size="40" />
+				<input type="submit" name="btnG" value="Search" />
+			</form>
+		</div>
+		<div id="topnavbar" class="center pads">
+			<span id='menua'><a href="../menua/">A</a></span>
+			<span id='menub'><a href="../menub/">B</a></span>
+			<span id='menuc'><a href="../menuc/">C</a></span>
+			<span id='menud'><a href="../menud/">D</a></span>
+			<span id='menue'><a href="../menue/">E</a></span>
+			<span id='menuf'><a href="../menuf/">F</a></span>
+			<span id='menug'><a href="../menug/">G</a></span>
+			<span id='menuh'><a href="../menuh/">H</a></span>
+			<span id='menui'><a href="../menui/">I</a></span>
+			<span id='menuj'><a href="../menuj/">J</a></span>
+			<span id='menuk'><a href="../menuk/">K</a></span>
+			<span id='menul'><a href="../menul/">L</a></span>
+			<span id='menum'><a href="../menum/">M</a></span>
+			<span id='menun'><a href="../menun/">N</a></span>
+			<span id='menuo'><a href="../menuo/">O</a></span>
+			<span id='menup'><a href="../menup/">P</a></span>
+			<span id='menuq'><a href="../menuq/">Q</a></span>
+			<span id='menur'><a href="../menur/">R</a></span>
+			<span id='menus'><a href="../menus/">S</a></span>
+			<span id='menut'><a href="../menut/">T</a></span>
+			<span id='menuu'><a href="../menuu/">U</a></span>
+			<span id='menuv'><a href="../menuv/">V</a></span>
+			<span id='menuw'><a href="../menuw/">W</a></span>
+			<span id='menux'><a href="../menux/">X</a></span>
+			<span id='menuy'><a href="../menuy/">Y</a></span>
+			<span id='menuz'><a href="../menuz/">Z</a></span>
+		</div>
+		<div class="flexmp">
+			<div><span>
+				<a href="grid/">This Week&rsquo;s<br />
+					U.S. Schedule Grid</a>
+			</span></div>
+			<div><span>
+				<a href="current/">Current Shows</a>
+			</span></div>
+			<div><span>
+				<a href="hiatus/">Shows on Hiatus<br />
+					or Cancelled</a>
+			</span></div>
+			<div><span>
+				<a href="grid/menusgrids.asp">All Menus<br />
+					&amp; Grids</a>
+			</span></div>
+			<div><span>
+				<a href="fallgrid/">Fall 2020<br />
+					Schedule Grid</a>
+			</span></div>
+			<div><span>
+				New Episodes Today<br />
+					<a href="new/">US</a> | <a href="new/UK.asp">UK</a> | <a href="new/CA.asp">CA</a><br />
+					<a href="new/AU.asp">AU</a> | <a href="new/NZ.asp">NZ</a> | <a href="new/JP.asp">JP</a> | <a href="new/KR.asp">KR</a>
+			</span></div>
+			<div><span>
+				<a href="search/">SEARCH<br />
+					epguides.com</a>
+			</span></div>
+			<div><span>
+				<a href="FAQ/">FAQ</a>
+			</span></div>
+			<div><span>
+				<a href="cds/">TV Themes<br />
+					on CD</a>
+			</span></div>
+			<div><span>
+				<a href="FAQ/apps.shtml">Apps</a>
+			</span></div>
+			<div><span>
+				<a href="FAQ/merchants.shtml">TV Related<br />
+					Merchants</a>
+			</span></div>
+			<div><span>
+				<a href="FAQ/related.shtml">Other TV Related<br />
+					Web Sites</a>
+			</span></div>
+			<div><span>
+				<a href="FAQ/related.shtml#listings">Customizable<br />
+					TV Listings</a>
+			</span></div>
+			<div><span>
+				<a href="FAQ/acknowledgments.shtml">Acknowledgments</a><br />
+					&amp;&nbsp;<a href="FAQ/disclaimer.shtml">Disclaimer</a>
+			</span></div>
+			<div><span>
+				<a href="http://chicago.epguides.com/">Chicago TV</a>
+			</span></div>
+			<div><span>
+				<a href="common/allshows.txt">all shows<br />
+					as .csv</a>
+			</span></div>
+			<div><span>
+				<a href="menu/radio.shtml">UK Radio Shows</a>
+			</span></div>
+			<div><span>
+				<a href="menu/recentAddAll.xml">recently added shows (all)<br />
+				<img src="images/rss.gif" alt="RSS" class="RSS" /></a>
+			</span></div>
+			<div><span>
+				<a href="menu/added.xml">recently added shows (US only)<br />
+				<img src="images/rss.gif" alt="RSS" class="RSS" /></a>
+			</span></div>
+		</div>
+		<div>
+			<p class="pads">
+				We hope you enjoy your stay and find our collection useful.
+				If you have any general questions, please read our <cite><a href="FAQ/">FAQ</a></cite>,
+				which also includes instructions on how to send us e-mail.
+				Corrections and updates to individual episodes can be sent to
+				the editors at TVmaze or TV.com when you are on those sites.
+			</p>
+		</div>
+		<script src="http://xslt.alexa.com/site_stats/js/s/c?url=epguides.com"></script>
+	</body>
+</html>
+面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面面
